@@ -2,11 +2,13 @@
 
 * [Initial page](../README.md)
 
-## Get Started
+## navigation
 
-* [Blank](get-started/blank.md)
+* [Homepage](https://gitbook.com)
+* [Pricing](https://docs.gitbook.com/)
 
-## Start Now
+## test
 
-* [Start here](start-now/start-here.md)
+* [Test](test/untitled-1.md)
+* [test 2](test/test-2.md)
 
